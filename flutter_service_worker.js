@@ -24,8 +24,8 @@ const RESOURCES = {
 "favicon.png": "4c876c3491b6e4bcf1f4761e75e77b5c",
 "icons/favicon.png": "4c876c3491b6e4bcf1f4761e75e77b5c",
 "icons/volv_original.png": "4c876c3491b6e4bcf1f4761e75e77b5c",
-"index.html": "14658b2fbf6acff9364d0f3202e0a761",
-"/": "14658b2fbf6acff9364d0f3202e0a761",
+"index.html": "67c67eddea9a0e35b9bf76203a708389",
+"/": "67c67eddea9a0e35b9bf76203a708389",
 "main.dart.js": "2ce9730584a05a5c1069080a53f559c4",
 "manifest.json": "ec89c48c3c53ec9b28cb6297f582fd27",
 "version.json": "cc87abb57a6a280d18152c45d02a116e"
